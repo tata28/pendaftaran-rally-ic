@@ -1,0 +1,103 @@
+<svg version="1.1" id="Layer_1" class="header-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 167.8 259.2" style="enable-background:new 0 0 167.8 259.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{
+		fill:none;
+		stroke:#FAFFDF;
+		stroke-linejoin:round;
+		stroke-dasharray:8,300,24,360,16,400;
+		stroke-dashoffset:3000;
+	}
+	
+	.st1{
+		fill:none;stroke:#FAFFDF;
+		stroke-width:0.75;
+		stroke-linejoin:round;
+		stroke-dasharray:8,300,24,360,16,400;
+		stroke-dashoffset:3000;
+	}
+	@keyframes draw {
+		0% {
+		}
+		100% {
+		stroke-dashoffset: 0;
+		stroke-opacity: 1;
+		}
+	}
+	.st0, .st1 {
+		animation: draw 30s infinite;
+		animation-timing-function: ease-in-out;
+	}
+	.path-1{
+		animation-delay:1s;
+	}
+	.path-2{
+		animation-delay:2s;
+	}
+</style>
+<g id="lines_png">
+	
+		<image style="overflow:visible;enable-background:new    ;" width="699" height="1080" xlink:href="https://ic.petra.ac.id/assets/image/99EF6AD3.png"  transform="matrix(-0.24 0 0 -0.24 167.76 259.2)">
+	</image>
+</g>
+<g id="lines_svg">
+	<polyline class="st0 path-1" points="167.8,246.4 165.9,246.4 165.9,253.3 134.5,253.4 126.5,245.6 93.8,245.4 	"/>
+	<polyline class="st0" points="167.8,243.7 163.3,243.7 163.2,250.7 135.8,250.7 127.8,242.8 101.1,242.7 	"/>
+	<polyline class="st1" points="167.8,240.6 160.2,240.6 160.1,240.6 160.1,247.5 160.1,247.6 136.8,247.7 128.8,239.8 107.4,239.7 	
+		"/>
+	<polyline class="st1" points="167.8,236.6 156.5,236.6 156.5,243.5 156.5,243.7 137.6,243.7 131.7,237.4 89.1,237.3 89.1,243.2 
+		66.2,243.3 	"/>
+	<polyline class="st1 path-2" points="167.8,233.5 153.2,233.5 153.2,240.6 140.2,240.6 133.2,233.5 86,233.7 86,240.6 65.6,240.6 	"/>
+	<polyline class="st1" points="167.8,231 84.2,231.1 84.1,237.9 60.7,237.9 52.9,230 34.4,230 	"/>
+	<polyline class="st1 path-1" points="167.8,228 104,227.9 103.9,208.5 103.9,208.2 73,208.3 	"/>
+	<polyline class="st1" points="167.8,225.1 107,225 106.9,205.7 73.2,205.6 	"/>
+	<polyline class="st1" points="167.8,222.5 138.3,222.5 130.3,214.6 119.3,214.6 119.2,214.6 119.2,220.7 	"/>
+	<polyline class="st1 path-2" points="167.8,212.7 166.9,212.7 166.9,219.6 166.9,219.7 139.7,219.7 131.6,211.8 115.2,211.8 115.2,215.7 	
+		"/>
+	<polyline class="st1" points="167.8,209.7 163.9,209.7 163.8,216.7 140.6,216.7 132.6,208.8 111.6,208.8 	"/>
+	<polyline class="st1 path-2" points="167.8,205.8 160.4,205.8 160.4,212.8 146.2,212.7 	"/>
+	<polyline class="st1 path-1" points="167.8,203.1 157.8,203.1 157.7,210 142,210 	"/>
+	<polyline class="st1" points="167.8,200 154.7,200.1 154.7,207 139,207 	"/>
+	<polyline class="st1" points="167.8,196.8 146.3,197 146.3,204 122.4,203.8 122.4,196.8 141.1,196.8 141.1,200 141.1,200 
+		141.1,200.2 130.2,200.2 	"/>
+	<polyline class="st1 path-1" points="167.8,194.8 118.3,194.7 118.3,201.5 86.6,201.6 79,193.7 56,193.6 	"/>
+	<polyline class="st1 path-1" points="167.8,192 115.7,192 115.7,198.9 88.2,198.9 80.3,190.9 61.6,190.9 	"/>
+	<polyline class="st1" points="167.8,188.9 112.5,188.9 112.5,195.8 89.2,195.8 81.5,188.1 62.8,188.1 	"/>
+	<polyline class="st1" points="167.8,179 150.1,179 150.1,185.8 150.1,186 118.4,186 110.5,178.1 99.6,178.1 99.6,190.3 	"/>
+	<polyline class="st1" points="167.8,173.2 144.4,173.2 144.4,180.2 120.9,180.2 113.1,172.4 82.8,172.4 	"/>
+	<polyline class="st1 path-2" points="147.6,176.3 147.6,183.4 119.8,183.4 111.8,175.4 95.7,175.4 95.7,185.7 	"/>
+	<polyline class="st1" points="167.8,169.3 140.8,169.3 140.8,176.3 126.5,176.3 	"/>
+	<polyline class="st1" points="167.8,166.5 138.2,166.5 138.2,173.6 122.5,173.6 	"/>
+	<polyline class="st1 path-2" points="167.8,163.8 135,163.8 135,170.7 119.5,170.7 	"/>
+	<polyline class="st1" points="167.8,160.5 126.7,160.5 126.7,167.5 102.7,167.5 102.7,160.5 121.4,160.5 121.4,163.8 110.7,163.8 	
+		"/>
+	<polyline class="st1 path-1" points="157,155.6 96.1,155.6 96.1,162.5 89.9,162.5 	"/>
+	<polyline class="st1 path-2" points="110.1,158.3 98.7,158.3 98.7,165.4 67,165.4 59.4,157.3 36.4,157.2 	"/>
+	<polyline class="st1" points="167.8,142.1 146.2,142.1 146.2,149.1 114.5,149.1 106.5,141.1 95.2,141.1 	"/>
+	<polyline class="st1" points="167.8,136.4 140.5,136.4 140.5,143.4 117.2,143.4 109.3,135.5 83.1,135.5 	"/>
+	<polyline class="st1 path-1" points="167.5,123.6 84.2,123.6 84.2,104 40,104 32,96.1 9.2,96.1 	"/>
+	<polyline class="st1" points="167.8,111.1 150.1,111.1 150.1,118.1 118.4,118.1 110.8,110.4 99.5,110.4 99.5,113.7 	"/>
+	<polyline class="st1 path-1" points="167.8,108.3 147.4,108.3 147.4,115.4 119.8,115.4 111.9,107.5 95.7,107.5 95.7,111.8 	"/>
+	<polyline class="st1 path-2" points="167.8,105.3 144.4,105.3 144.2,105.3 144.2,112.4 120.7,112.4 113,104.7 94.7,104.7 	"/>
+	<polyline class="st1" points="167.8,101.3 140.8,101.3 140.8,108.5 126.4,108.5 	"/>
+	<polyline class="st1 path-2" points="167.8,92.6 126.4,92.6 126.4,99.5 103,99.5 103,92.6 121.4,92.6 121.4,96.1 110.4,96.1 	"/>
+	<polyline class="st1 path-2" points="167,90.5 98.8,90.5 98.8,97.4 67,97.4 58.9,89.3 36.5,89.3 	"/>
+	<polyline class="st1" points="42.5,86.9 60.4,86.9 68.5,95 95.7,95 95.7,87.6 167,87.6 	"/>
+	<polyline class="st1 path-1" points="163.5,84.8 92.9,84.8 92.9,89.3 	"/>
+	<line class="st1" x1="161" y1="82.5" x2="126.4" y2="82.5"/>
+	<polyline class="st1 path-1" points="167.5,84.8 162.1,79.5 136.1,79.5 	"/>
+	<polyline class="st1" points="158.8,74.8 123.8,74.8 123.8,80.6 92.9,80.6 84.8,72.6 60.1,72.6 	"/>
+	<polyline class="st1" points="167.8,70.6 120.8,70.6 120.8,77.6 93.3,77.6 88.1,72.3 	"/>
+	<polyline class="st1 path-2" points="167.8,64.8 138.7,64.8 138.7,45.2 94.2,45.2 86.3,37.3 63.7,37.3 	"/>
+	<polyline class="st1 path-1" points="167.8,62.2 141.7,62.2 141.7,42.6 95.8,42.6 87.9,34.6 69.3,34.6 	"/>
+	<polyline class="st1 path-2" points="167.8,40.8 157.1,40.8 157.1,33.9 167.8,33.9 	"/>
+	<polyline class="st1" points="153.4,33.9 153.4,38.6 121.7,38.6 113.5,30.4 90.8,30.4 	"/>
+	<polyline class="st1 path-1" points="167.8,25.8 147.4,25.8 147.4,33.4 124.3,33.4 115.7,24.8 97.6,24.8 	"/>
+	<polyline class="st1" points="167.8,23 153.4,23 145.7,15.3 134.5,15.3 134.5,27.4 	"/>
+	<polyline class="st1" points="167.8,20.3 155,20.3 147.2,12.5 130.4,12.5 130.4,22.3 	"/>
+	<polyline class="st1" points="154.9,16.4 148,9.3 118.5,9.3 	"/>
+	<line class="st1" x1="167.8" y1="13.3" x2="161.6" y2="13.3"/>
+	<polyline class="st1" points="166,132.9 137,132.9 137,139.5 118.4,139.5 112,133.4 104.8,132.9 	"/>
+	<line class="st1 path-1" x1="167.5" y1="126.6" x2="101.4" y2="126.6"/>
+</g>
+</svg>
